@@ -1,0 +1,98 @@
+background{
+    background-image: url(https://media.istockphoto.com/id/999246336/photo/high-school-tutor-giving-male-student-one-to-one-tuition-at-desk.jpg?s=612x612&w=0&k=20&c=BslNF6nY6wEkIeGLpWmUGt4dKfs1ykvyOlJFof0xoZg=);
+    height:100vh;
+    width: 100%;
+    background-size: cover ;
+    background-position: center;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)) , url(https://media.istockphoto.com/id/999246336/photo/high-school-tutor-giving-male-student-one-to-one-tuition-at-desk.jpg?s=612x612&w=0&k=20&c=BslNF6nY6wEkIeGLpWmUGt4dKfs1ykvyOlJFof0xoZg=);
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+
+ul{
+list-style-type: none;
+margin: 0;
+padding: 0;
+overflow: hidden;
+background-color: rgb(42, 40, 40);
+}
+
+li{
+float: left;
+
+}
+
+li a{
+text-decoration: none;
+font-size: 30px;
+color:white;
+display: block;
+padding: 40px;
+}
+
+li img{
+    width: 170px;
+    height: 120px;
+}
+
+
+.library {
+    background-image: url(https://1.bp.blogspot.com/-FUIHlFeWrqw/XqHcnZH28wI/AAAAAAAAnmQ/UU4LCADVcBw7-IpzzEJxO1uS1zKtmIvxwCLcBGAsYHQ/s1600/school-classroom-book-background-class-teacher-1575601-pxhere.com.jpg);
+    height:400px;
+    width: 100%;
+    background-size: cover ;
+    background-position: center;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)) , url(https://1.bp.blogspot.com/-FUIHlFeWrqw/XqHcnZH28wI/AAAAAAAAnmQ/UU4LCADVcBw7-IpzzEJxO1uS1zKtmIvxwCLcBGAsYHQ/s1600/school-classroom-book-background-class-teacher-1575601-pxhere.com.jpg);
+}
+
+.red{
+  background-color: rgb(42, 40, 40) ;
+  height: 1000px ;
+  width: 100%;
+  position: relative;
+  margin-top: 250px;
+}
+
+h1{
+position:relative;
+font-size: 125px;
+top: 100px;
+left: 250px;
+color:white;
+}
+
+h2{
+text-align: left;
+font-size: 90px;
+bottom: 150px;
+margin-left: 100px;
+margin-left: 30px;
+right: 100px;
+color:red;
+}
+
+h3 {
+text-align: left;
+font-size: 30px;
+bottom: 100px;
+margin-left: 30px;
+margin-right: 675px;
+color:white;
+}
+
+.red img {
+        position: relative;
+        left: 800px;
+        bottom: 400px;
+    
+}
+
+h4 {    
+font-size: 80px;
+position: relative;
+left: 350px;
+bottom: 450px;
+color:red;
+}

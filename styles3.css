@@ -1,0 +1,73 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(42, 40, 40);
+    }
+    
+    li{
+    float: left;
+    
+    }
+    
+    li a{
+    text-decoration: none;
+    font-size: 30px;
+    color:white;
+    display: block;
+    padding: 40px;
+    }
+    
+    li img{
+        width: 170px;
+        height: 120px;
+    }
+
+    .table {
+            background-image: url(https://do-prod-webteam-drupalfiles.s3-us-west-2.amazonaws.com/bcedu/s3fs-public/styles/header_image/public/tutoring-header.jpg?itok=6IGrqcIg);
+            height: 500px;
+            width: 100%;
+            background-size: cover ;
+            background-position: center;
+            background-image: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)) , url(https://do-prod-webteam-drupalfiles.s3-us-west-2.amazonaws.com/bcedu/s3fs-public/styles/header_image/public/tutoring-header.jpg?itok=6IGrqcIg);
+    }
+
+    h1{
+        font-size: 150px;
+        position: relative;
+        top: 100px ;
+        left: 175px;
+        color:white;
+    }
+
+    .gray {
+        background-color: rgb(42, 40, 40) ;
+        height: 1000px ;
+        width: 100%;
+        position: relative;
+        bottom: 0;    
+    }
+
+    h2 {
+        font-size: 30px;
+        position: relative;
+        top: 50px ;
+        left: 30px;
+        margin-right: 550px;
+        color:white;
+    }
+
+    .gray img {
+               position: relative;
+               left: 925px;
+               bottom: 200px;
+               height: 300px;
+               width: 700px;
+    }
