@@ -1,0 +1,138 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+ul{
+    font-family: 'Trebuchet MS', sans-serif;
+    list-style-type: none;
+    height:100px;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(42, 40, 40);
+    }
+li{
+float: left;
+
+}
+
+li a{
+    margin-top: 20px;
+    text-decoration: none;
+    font-size: 30px;
+    color:white;
+    display: block;
+    padding: 15px;
+}
+
+
+li img{
+    width: 170px;
+    height: 100px;
+}
+
+.job {
+    background-image: url(https://as2.ftcdn.net/v2/jpg/03/88/13/33/1000_F_388133354_ugvH5Bef81Q62tLo6wrZ6SWBhwEGTHcE.jpg);
+    height: 300px;
+    width: 100%;
+    background-size: cover ;
+    background-position: center;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)) , url(https://as2.ftcdn.net/v2/jpg/03/88/13/33/1000_F_388133354_ugvH5Bef81Q62tLo6wrZ6SWBhwEGTHcE.jpg);
+}
+
+.grey {
+    background-color: rgb(42, 40, 40) ;
+    height: 1100px ;
+    width: 100%;
+    position: relative;
+    bottom: 0;    
+}
+
+h1{
+    font-size: 150px;
+    position: relative;
+    top: 70px ;
+    left: 100px;
+    color:white;
+    font-family:'Chalkduster', serif;
+}
+
+h2 {
+    font-size: 35px;
+    position: relative;
+    margin-right: 600px;
+    top: 10px ;
+    left: 20px;
+    color:white;
+    font-family: 'Trebuchet MS', sans-serif;
+
+}
+
+.grey img{
+          position: relative;
+          left: 1000px;
+          height:250px;
+          width:400px;
+          bottom: 220px;
+}
+
+h6 {
+    color:white;
+    font-size: 35px;
+    margin-left:100px;
+    margin-right:100px;
+    text-align: center;
+    position:relative;
+    bottom:160px;
+    font-family:'Chalkduster', serif;
+}
+
+.positions {
+    background-color: #292828;
+    width: 900px;
+    height:175px;
+    border-radius: 12px;
+    padding: 30px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    position: relative;
+    left:200px;
+    bottom:100px;
+    margin:0px;
+    border:5px solid red;
+    button {
+        color: white;
+        font-family:'Chalkduster', serif;
+        background-color: red;
+        font-size: 50px;
+        height: 150px;
+        width: 870px;
+        position: relative;
+        left: 20px;
+        top: 0px;
+}
+}
+
+h3 {
+    font-size: 30px;
+    color:white;
+}
+
+h4 {
+    font-size: 30px;
+    color:white;
+}
+
+h5 {
+    font-size: 30px;
+    color:white;
+}
+
+.bottompage {
+    color:white;
+    font-size:20px;
+    text-align: center;
+    margin-left:520px;
+    margin-right:520px;
+    font-family: 'Trebuchet MS', sans-serif;
+}
